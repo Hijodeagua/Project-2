@@ -1,4 +1,4 @@
-id,name,city,state,country
+brewery_id,name,city,state,country
 1,(512) Brewing Company,Austin,Texas,United States
 2,21st Amendment Brewery Cafe,San Francisco,California,United States
 8,Abbey Wright Brewing/Valley Inn,Williamsport,Pennsylvania,United States
