@@ -140,8 +140,6 @@ brewery_id,name,city,state,country,latitude,longitude
 333,Cambridge Brewing,Cambridge,Massachusetts,United States,42.36640167,-71.0911026
 337,Cape Ann Brewing,Gloucester,Massachusetts,United States,42.61019897,-70.66639709
 338,Capital Brewery,Middleton,Wisconsin,United States,43.09489822,-89.51629639
-339,Capital City Brewing Company,Washington,District of Columbia,United States,38.89989853,-77.02719879
-339,Capital City Brewing Company,Washington,District of Columbia,United States,43.80419922,-91.25260162
 340,Capitol City Brewing #4,Arlington,Virginia,United States,38.84109879,-77.0868988
 341,Captain Lawrence Brewing Company,Pleasantville,New York,United States,41.12599945,-73.78959656
 347,Carlyle Brewing,Rockford,Illinois,United States,42.26890182,-89.09069824
@@ -178,8 +176,6 @@ brewery_id,name,city,state,country,latitude,longitude
 398,Cooperstown Brewing Company,Milford,New York,United States,42.58929825,-74.94029999
 399,Coors Brewing - Golden Brewery,Golden,Colorado,United States,39.75989914,-105.21900179999999
 400,Copper Dragon Brewing,Carbondale,Illinois,United States,37.72729874,-89.21679688
-401,Copper Eagle Brewing,Grand Island,Nebraska,United States,40.92219925,-98.35810089
-401,Copper Eagle Brewing,Grand Island,Nebraska,United States,47.94540024,-122.3040009
 402,Copper Kettle Brewery,Millmont,Pennsylvania,United States,40.89419937,-77.19709778
 403,Corner Pub,Reedsburg,Wisconsin,United States,43.53229904,-90.00990295
 404,Coronado Brewing Company,Coronado,California,United States,32.69760132,-117.17299650000001
@@ -380,8 +376,6 @@ brewery_id,name,city,state,country,latitude,longitude
 701,Iron Springs Pub & Brewery,Fairfax,California,United States,37.98600006,-122.5839996
 704,Issaquah Brewhouse,Issaquah,Washington,United States,47.52999878,-122.03700259999998
 705,Ithaca Beer Company,Ithaca,New York,United States,42.41450119,-76.53150177
-706,Jack Russell Brewing,Camino,California,United States,38.75630188,-120.6790009
-706,Jack Russell Brewing,Camino,California,United States,49.14820099,-122.86199950000001
 707,Jack's Brewing,Fremont,California,United States,37.54410172,-121.987999
 708,Jacob Leinenkugel Brewing Company,Chippewa Falls,Wisconsin,United States,44.94490051,-91.39679718
 709,Jaipur Restaurant and Brewpub,Omaha,Nebraska,United States,41.23279953,-96.08249664
@@ -509,8 +503,6 @@ brewery_id,name,city,state,country,latitude,longitude
 894,Mudshark Brewing,Lake Havasu City,Arizona,United States,34.46860123,-114.3410034
 895,Murphy's Wagon Wheel,Hastings,Nebraska,United States,40.58430099,-98.39119720000001
 899,Namaqua Brewing,Loveland,Colorado,United States,40.39780045,-105.0749969
-901,Nebraska Brewing Company,Papillion,Nebraska,United States,41.13389969,-96.03070068
-901,Nebraska Brewing Company,Papillion,Nebraska,United States,37.24399948,-107.8789978
 904,New Albanian Brewing,New Albany,Indiana,United States,38.32809829999999,-85.81710052
 905,New Belgium Brewing,Fort Collins,Colorado,United States,40.59289932,-105.0699997
 906,New Century Brewing Company,Boston,Massachusetts,United States,42.3586998,-71.05740356
@@ -596,8 +588,6 @@ brewery_id,name,city,state,country,latitude,longitude
 1026,Pugsley Brewing LLC,Portland,Maine,United States,43.66149902,-70.25530243
 1027,Pumphouse Brewery & Restaurant,Longmont,Colorado,United States,40.16880035,-105.10199740000002
 1028,Pumphouse Pizza and Brewing,Lake Delton,Wisconsin,United States,43.60110092,-89.79370117
-1029,"Pyramid Alehouse, Brewery and Restaurant - Berkeley",Berkeley,California,United States,47.59170151,-122.33499909999999
-1029,"Pyramid Alehouse, Brewery and Restaurant - Berkeley",Berkeley,California,United States,37.88059998,-122.3000031
 1031,Pyramid Ales Brewery,Seattle,Washington,United States,47.59239960000001,-122.3339996
 1033,Quigleys,Pawleys Island,South Carolina,United States,33.4905014,-79.11599731
 1035,Raccoon Lodge and Brewpub / Cascade Brewing,Portland,Oregon,United States,45.48559952,-122.7539978
