@@ -15,7 +15,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 var newtry = "brew.geoJSON";
 
-d3.json("brew.geoJSON", function(response)
+d3.json(newtry, function(response)
 {
   createFeatures(response.features)
 });
