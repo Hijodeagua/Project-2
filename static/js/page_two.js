@@ -33,32 +33,31 @@ d3.json(geoData, function(data) {
     radius: 20,
     blur: 35
   }).addTo(myMap);
-<<<<<<< HEAD
+// <<<<<<< HEAD
   
-  var geoData = "data/brew.geoJSON";
+//   var geoData = "data/brew.geoJSON";
 
-  var geojson;
+//   var geojson;
   
-  d3.json(geoData, function(data) {
+//   d3.json(geoData, function(data) {
   
-    geojson = L.heatLayer(data, {
+//     geojson = L.heatLayer(data, {
 
-        valueProperty: "name",
+//         valueProperty: "name",
   
-    // Binding a pop-up to each layer
-    onEachFeature: function(feature, layer) {
-        layer.bindPopup("city " + feature.properties.city + "<br>Brewery Name:<br>" +
-          "$" + feature.properties.name);
-      }
-    }).addTo(myMap);   
+//     // Binding a pop-up to each layer
+//     onEachFeature: function(feature, layer) {
+//         layer.bindPopup("city " + feature.properties.city + "<br>Brewery Name:<br>" +
+//           "$" + feature.properties.name);
+//       }
+//     }).addTo(myMap);   
   
-    var heat = L.heatLayer(heatArray, {
-      radius: 20,
-      blur: 35
-    }).addTo(myMap);
+//     var heat = L.heatLayer(heatArray, {
+//       radius: 20,
+//       blur: 35
+//     }).addTo(myMap);
   
-  });
-=======
+//   });
 
 });
->>>>>>> a9ad070b2200c22ddff8974ace53ef35edef69fe
+
