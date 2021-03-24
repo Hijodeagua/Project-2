@@ -13,7 +13,7 @@ var myMap = L.map("map", {
     accessToken: API_KEY
   }).addTo(myMap);
   
-  var newtry = "brew.geoJSON";
+  var newtry = "data/brew.geoJSON";
   
   d3.json(newtry, function(response) {
   

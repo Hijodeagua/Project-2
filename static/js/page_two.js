@@ -12,7 +12,7 @@
     accessToken: API_KEY
   }).addTo(myMap);
   
-  var geoData = "brew.geoJSON";
+  var geoData = "data/brew.geoJSON";
 
   var geojson;
   
