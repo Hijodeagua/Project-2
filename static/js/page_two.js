@@ -20,7 +20,7 @@
   
     geojson = L.heatLayer(data, {
 
-        valueProperty: "Name",
+        valueProperty: "name",
   
     // Binding a pop-up to each layer
     onEachFeature: function(feature, layer) {
