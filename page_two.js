@@ -1,7 +1,7 @@
-var myMap = L.map("map", {
-    center: [37.7749, -122.4194],
-    zoom: 13
-  });
+// var myMap = L.map("map", {
+//     center: [39.50, -98.35],
+//     zoom: 5
+//   });
   
   L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
     attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
