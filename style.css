@@ -1,3 +1,7 @@
+#map{
+  height: 900px;
+}
+
 body {
   background: #9b1804;
   font-family: "Nunito", sans-serif;
@@ -28,4 +32,5 @@ body {
 #jumbotron .h1 {
   color:rgb(18, 207, 240)
 }
+
 
